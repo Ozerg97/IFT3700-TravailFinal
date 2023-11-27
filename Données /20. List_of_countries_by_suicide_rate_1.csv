@@ -1,23 +1,23 @@
 Country,All- Suicides rates per 100000
-Afghanistan *,0.0
+Afghanistan,0.0
 Albania,0.0
 Algeria,0.0
 Angola,1.0
 Antigua and Barbuda,0.0
 Argentina,0.0
 Armenia,0.0
-Australia *,1.0
+Australia,1.0
 Austria,1.0
 Azerbaijan,0.0
 Bahamas,0.0
 Bahrain,0.0
-Bangladesh *,0.0
+Bangladesh,0.0
 Barbados,0.0
-Belarus *,1.0
+Belarus,1.0
 Belgium,1.0
 Belize,0.0
 Benin,1.0
-Bhutan *,0.0
+Bhutan,0.0
 Bolivia,0.0
 Bosnia and Herzegovina,0.0
 Botswana,1.0
@@ -28,12 +28,12 @@ Burkina Faso,1.0
 Burundi,1.0
 Cape Verde,1.0
 Cambodia,0.0
-Cameroon *,1.0
-Canada *,1.0
+Cameroon,1.0
+Canada,1.0
 Central African Republic,1.0
 Chad,1.0
 Chile,0.0
-China *,0.0
+China,0.0
 Colombia,0.0
 Comoros,1.0
 Congo,1.0
@@ -57,45 +57,45 @@ Estonia,1.0
 Eswatini,1.0
 Ethiopia,1.0
 Fiji,1.0
-Finland *,1.0
-France *,1.0
+Finland,1.0
+France,1.0
 Gabon,1.0
 Gambia,1.0
 Georgia,0.0
 Germany,0.0
 Ghana,1.0
-Greece *,0.0
+Greece,0.0
 Grenada,0.0
 Guatemala,0.0
 Guinea,1.0
 Guinea-Bissau,1.0
-Guyana *,1.0
+Guyana,1.0
 Haiti,1.0
 Honduras,0.0
 Hungary,1.0
 Iceland,1.0
-India *,1.0
+India,1.0
 Indonesia,0.0
-Iran *,0.0
+Iran,0.0
 Iraq,0.0
 Ireland,1.0
 Israel,0.0
 Italy,0.0
 Jamaica,0.0
-Japan *,1.0
+Japan,1.0
 Jordan,0.0
-Kazakhstan *,1.0
+Kazakhstan,1.0
 Kenya,1.0
 Kiribati,1.0
 Kuwait,0.0
 Kyrgyzstan,0.0
 Laos,0.0
 Latvia,1.0
-Lebanon *,0.0
+Lebanon,0.0
 Lesotho,1.0
 Liberia,0.0
 Libya,0.0
-Lithuania *,1.0
+Lithuania,1.0
 Luxembourg,1.0
 Madagascar,1.0
 Malawi,1.0
@@ -105,24 +105,24 @@ Mali,0.0
 Malta,0.0
 Mauritania,0.0
 Mauritius,1.0
-Mexico *,0.0
+Mexico,0.0
 Micronesia,1.0
 Mongolia,1.0
 Montenegro,1.0
 Morocco,0.0
-Mozambique *,1.0
+Mozambique,1.0
 Myanmar,0.0
 Namibia,1.0
-Nepal *,1.0
+Nepal,1.0
 Netherlands,1.0
 New Zealand,1.0
 Nicaragua,0.0
 Niger,1.0
-Nigeria *,0.0
+Nigeria,0.0
 North Macedonia,0.0
 Norway,1.0
 Oman,0.0
-Pakistan *,1.0
+Pakistan,1.0
 Panama,0.0
 Papua New Guinea,0.0
 Paraguay,0.0
@@ -131,33 +131,33 @@ Philippines,0.0
 Poland,1.0
 Portugal,0.0
 Qatar,0.0
-South Korea *,1.0
+South Korea,1.0
 Moldova,1.0
-Romania *,0.0
-Russia *,1.0
+Romania,0.0
+Russia,1.0
 Rwanda,1.0
 Saint Lucia,0.0
 Saint Vincent and the Grenadines,0.0
 Samoa,1.0
 São Tomé and Príncipe,0.0
-Saudi Arabia *,0.0
+Saudi Arabia,0.0
 Senegal,1.0
 Serbia,0.0
 Seychelles,0.0
 Sierra Leone,1.0
-Singapore *,1.0
+Singapore,1.0
 Slovakia,1.0
 Slovenia,1.0
 Solomon Islands,1.0
 Somalia,1.0
 South Africa,1.0
 South Sudan,0.0
-Spain *,0.0
-Sri Lanka *,1.0
+Spain,0.0
+Sri Lanka,1.0
 Sudan,0.0
 Suriname,1.0
-Sweden *,1.0
-Switzerland *,1.0
+Sweden,1.0
+Switzerland,1.0
 Syria,0.0
 Tajikistan,0.0
 Thailand,0.0
@@ -169,12 +169,12 @@ Tunisia,0.0
 Turkey,0.0
 Turkmenistan,0.0
 Uganda,1.0
-Ukraine *,1.0
+Ukraine,1.0
 United Arab Emirates,0.0
-United Kingdom *,0.0
+United Kingdom,0.0
 Tanzania,0.0
-United States *,1.0
-Uruguay *,1.0
+United States,1.0
+Uruguay,1.0
 Uzbekistan,0.0
 Vanuatu,1.0
 Venezuela,0.0
