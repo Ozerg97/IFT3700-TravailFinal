@@ -74,7 +74,7 @@ Micronesia,2.71
 Turkmenistan,2.67
 Oman,2.62
 Bolivia,2.62
-Guam (US),2.57
+Guam,2.57
 Laos,2.5
 Fiji,2.48
 Paraguay,2.47
@@ -91,7 +91,7 @@ Cambodia,2.34
 Morocco,2.33
 Panama,2.33
 Nicaragua,2.32
-Faroe Islands (Denmark),2.29
+Faroe Islands,2.29
 Dominican Republic,2.27
 World,2.27
 Venezuela,2.21
@@ -106,8 +106,8 @@ Georgia,2.08
 India,2.03
 Nepal,2.03
 Ecuador,2.03
-New Caledonia (France),2.02
-U.S. Virgin Islands (US),2.01
+New Caledonia,2.02
+U.S. Virgin Islands,2.01
 Belize,2.01
 Grenada,2
 Sri Lanka,1.99
@@ -116,7 +116,7 @@ Vietnam,1.94
 Cape Verde,1.9
 Turkey,1.89
 Argentina,1.89
-Gibraltar (UK),1.85
+Gibraltar,1.85
 Czech Republic,1.83
 France,1.83
 Mexico,1.82
@@ -127,7 +127,7 @@ Moldova,1.81
 Malaysia,1.8
 El Salvador,1.8
 Qatar,1.8
-Greenland (Denmark),1.8
+Greenland,1.8
 Romania,1.8
 Saint Vincent and the Grenadines,1.8
 Brunei,1.78
@@ -136,11 +136,11 @@ Ireland,1.72
 Denmark,1.72
 Colombia,1.72
 Australia,1.7
-French Polynesia (France),1.7
+French Polynesia,1.7
 Iran,1.69
 Maldives,1.69
 Sweden,1.67
-Turks and Caicos Islands (UK),1.67
+Turks and Caicos Islands,1.67
 United States,1.66
 Brazil,1.64
 Slovakia,1.64
@@ -161,7 +161,7 @@ Germany,1.58
 Bulgaria,1.58
 Armenia,1.57
 Latvia,1.57
-Isle of Man (UK),1.56
+Isle of Man,1.56
 United Kingdom,1.56
 Norway,1.55
 Chile,1.54
@@ -197,19 +197,19 @@ Thailand,1.33
 Poland,1.33
 Cyprus,1.32
 Japan,1.3
-Bermuda (UK),1.3
+Bermuda,1.3
 Italy,1.25
 Spain,1.19
-Aruba (Netherlands),1.18
+Aruba,1.18
 China,1.16
 Ukraine,1.16
 Malta,1.14
 Singapore,1.12
-Macau (China),1.09
-British Virgin Islands (UK),1
-Puerto Rico (US),0.91
+Macau,1.09
+British Virgin Islands,1
+Puerto Rico,0.91
 South Korea,0.81
-Hong Kong (China),0.77
+Hong Kong,0.77
 Sovereign states: 190,
 Dependent territories: 20,
 World,2.27
