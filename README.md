@@ -20,13 +20,19 @@ Certains noms de pays ont été aussi changés pour correspondre au nom des pays
 1) Avec Jupyter notebook
 
 a. Ouvrir le projet dans un IDE comme PyCharm ou Visual Studio Code
+
 b. Ouvrir le fichier main
+
 c. Executer un par un les cellules 
+
 d. Le fichier finale va apparaitre dans le dossier 'projet'
 
 2) Avec Colab
 
 a. Ouvrir le fichier dans Colab
+
 b. Il faut donner le chemin du dossier qui contient les données qui est dans votre Google drive 
+
 c. Ensuite executer un par un  les celulles
+
 d. Le fichier finale va apparaitre dans le dossier 'projet' dans votre Google Drive
