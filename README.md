@@ -4,7 +4,7 @@
 
 # Contenu du dossier 'projet' 
 
-Le projet contient 3 dossiers, 1 fichier jupyter notebook et un fichier csv contenant tous les pays du monde filtrer à partir des 40 fichiers csv.
+Le projet contient 3 dossiers, 1 fichier jupyter notebook 'main' et un fichier csv 'countries of the world' contenant tous les pays du monde filtrer à partir des 40 fichiers csv.
 
 Le dossier 'Données Brutes' contient les 40 fichiers csv qui ont été nettoyé manuellement pour gagner du temps, certains noms de pays contenaient par exemple (details), [Note], (OPEC), (more info), etc. Certains avaient des erreurs de formatage comme des virgules. Ils ont été supprimé.
 Dans la deuxieme colonne, certaines valeurs n'avait pas la bonne syntaxe comme 0.5-1.0, dans ces genres de cas, nous avons pris la moyenne des deux valeurs et nous avons remplacé la valeur par la moyenne.
