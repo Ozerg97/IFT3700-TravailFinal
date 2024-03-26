@@ -1,4 +1,4 @@
-# IFT 3700-Partie 1, Nettoyage des données
+# IFT 3700-Travail Final, Nettoyage des données
 
 # Ozer Guney
 
