@@ -1,4 +1,4 @@
-# IFT 3700-Travail Final, Nettoyage des données
+# IFT 3700-Partie 1, Nettoyage des données
 
 # Ozer Guney
 
@@ -20,8 +20,9 @@ Certains noms de pays ont été aussi changés pour correspondre au nom des pays
 1) Avec Jupyter notebook
 
 a. Ouvrir le projet dans un IDE comme PyCharm ou Visual Studio Code
-b. Executer un par un les cellules 
-c. Le fichier finale va apparaitre dans le dossier 'projet'
+b. Ouvrir le fichier main
+c. Executer un par un les cellules 
+d. Le fichier finale va apparaitre dans le dossier 'projet'
 
 2) Avec Colab
 
